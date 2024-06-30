@@ -1,0 +1,19 @@
+
+.container{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.table_row{
+    border: 1px solid black;
+    display: flex;
+    gap: 2em;
+}
+
+.cell{
+    padding: 5px;
+    margin: 10px;
+    width: 16rem;
+    background-color: azure;
+}

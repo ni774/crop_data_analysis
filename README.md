@@ -35,5 +35,12 @@
       "Area Under Cultivation (UOM:Ha(Hectares))": 3.6
     }
     ]
+
+    ### output sample
+![image](https://github.com/ni774/crop_data_analysis/assets/61626746/21aa4359-068a-4299-9c87-18206b6d5c38)
+
+![image](https://github.com/ni774/crop_data_analysis/assets/61626746/e85dd598-5261-43f6-881e-10e6e4ba31bd)
+
+
 `
     `
